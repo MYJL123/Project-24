@@ -1,0 +1,17 @@
+Matter.Body.setStatic(body, isStatic)
+body=isStatic
+mass,inertia=infinity
+
+
+body=thisBody
+
+isStatic Bool
+
+packageSprite.x= packageBody.position.x
+packageSprite.y= packageBody.position.y
+
+addBox=red("right");
+addBox=red("left");
+addBox=red("top");
+addBox=red("bottom");
+addBox=red("middle);
